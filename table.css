@@ -1,0 +1,32 @@
+thead{
+    background-color: rgb(4, 180, 136);
+    color: white;
+}
+
+table{
+    /* background-color: green; */
+    border-collapse: collapse;
+    box-shadow: 0 0 10px rgb(233, 233, 233);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+td{
+    padding: 20px;
+}
+h2{
+    color: red;
+}
+ul{
+    border: 10px solid yellow;
+    
+}
+li{
+    background-color: aqua;
+    margin: 2px;
+    
+}
+ol{
+    background-color: rgb(247, 224, 224);
+    border: 10px solid rgb(247, 224, 224);
+    
+}
