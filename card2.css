@@ -1,0 +1,89 @@
+.parent{
+    width: 300px;
+    box-shadow: 0 0 5px gray;
+    /* padding: 20px; */
+    border-radius: 40px;
+    height: 490px;
+    margin: auto;
+}
+
+.top{
+    height: 20px;
+    justify-content: center;
+    padding: 25px 0;
+    border-bottom: 3px solid gray;
+    margin: 20px 20px 10px 20px ;
+    display: flex;
+    gap: 20px;
+}
+img{
+    border-radius: 100%;
+    border: 3px solid red;
+
+}
+.i{
+    margin: 0px 20px;
+    width: 33px;
+    height: 33px;
+    border: none;
+}
+.text{
+    line-height: 2px;
+    font-size: 8px;
+    position: top;
+}
+.nd2{
+    margin: 0 22px;
+    display: flex;
+    gap: 1px;
+    font-size: 10px;
+}
+.menu{
+    margin: 0px 0 0px 80px;
+    font-size: 20px;
+
+}
+.m{
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    border: none;
+    /* object-fit: cover; */
+    background-size: cover;
+   
+}
+.p{
+     margin: 15px 20px 5px 20px;
+}
+.em{
+    display: flex;
+
+}
+.co{
+    margin-left: 150px;
+}
+.e{
+    margin-left: 20px;
+}
+.dow{
+    line-height: 4px;
+    margin: 20px;
+}
+.a{
+    line-height: 20px;
+}
+.edit{
+ text-decoration: none;
+ background-color: green;
+ color: white;
+ border-radius: 10px;
+ padding: 10px;
+ line-height: 50px;
+}
+.edit:hover{
+ text-decoration: none;
+ background-color: rgb(21, 71, 5);
+ color: white;
+ border-radius: 10px;
+ padding: 10px;
+}
